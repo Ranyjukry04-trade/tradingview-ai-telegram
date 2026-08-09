@@ -1,5 +1,5 @@
-    flask
-    python-telegram-bot
-    openai
-    requests
-    gunicorn
+flask
+python-telegram-bot
+openai
+requests
+gunicorn
